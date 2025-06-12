@@ -1,6 +1,5 @@
 node_modules
 yarn.lock
-dist
 types
 *.DS_STORE
 *.tgz
